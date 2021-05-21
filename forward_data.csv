@@ -1,0 +1,578 @@
+Last Name,First Name,Age,Height,Weight,Team,Abbr,GP,G,A,P,TOI,Hits,PIM,+/-
+McDavid,Connor,23,"6'1""",194,Edmonton Oilers,EDM,51,31,62,93,22:30,58,18,26
+Draisaitl,Leon,25,"6'2""",207,Edmonton Oilers,EDM,51,26,49,75,22:25,32,20,32
+MacKinnon,Nathan,25,"6'0""",205,Colorado Avalanche,COL,47,20,45,65,20:22,36,37,22
+Marner,Mitchell,23,"6'0""",174,Toronto Maple Leafs,TOR,52,18,46,64,22:26,22,18,21
+Kane,Patrick,32,"5'10""",176,Chicago Blackhawks,CHI,53,15,49,64,22:10,13,14,-7
+Matthews,Auston,23,"6'3""",220,Toronto Maple Leafs,TOR,48,39,24,63,21:43,52,10,21
+Marchand,Brad,32,"5'9""",181,Boston Bruins,BOS,50,27,36,63,18:53,64,46,23
+Crosby,Sidney,33,"5'11""",201,Pittsburgh Penguins,PIT,53,23,37,60,20:27,41,26,7
+Rantanen,Mikko,24,"6'4""",216,Colorado Avalanche,COL,47,29,30,59,20:05,23,30,25
+Stone,Mark,28,"6'4""",218,Vegas Golden Knights,VGK,51,21,38,59,19:01,29,26,26
+Huberdeau,Jonathan,27,"6'1""",201,Florida Panthers,FLA,54,19,40,59,18:24,48,26,10
+Panarin,Artemi,29,"5'11""",168,New York Rangers,NYR,42,17,41,58,19:38,13,6,14
+Aho,Sebastian,23,"6'0""",176,Carolina Hurricanes,CAR,53,24,33,57,19:37,36,30,20
+Barkov,Aleksander,25,"6'3""",214,Florida Panthers,FLA,48,26,30,56,21:07,30,14,11
+Guentzel,Jake,26,"5'11""",181,Pittsburgh Penguins,PIT,54,23,33,56,20:19,42,28,6
+Scheifele,Mark,27,"6'3""",207,Winnipeg Jets,WPG,52,19,37,56,20:59,30,12,-10
+Bäckström,Nicklas,33,"6'1""",209,Washington Capitals,WSH,53,15,38,53,18:34,24,14,1
+DeBrincat,Alex,23,"5'7""",165,Chicago Blackhawks,CHI,49,28,23,51,20:29,63,12,2
+Pacioretty,Max,32,"6'2""",205,Vegas Golden Knights,VGK,48,24,27,51,17:56,33,14,20
+O'Reilly,Ryan,29,"6'1""",216,St. Louis Blues,STL,51,23,27,50,21:00,23,16,21
+Perron,David,32,"6'0""",201,St. Louis Blues,STL,51,15,35,50,18:44,37,20,2
+Kopitar,Anze,33,"6'3""",225,Los Angeles Kings,LAK,51,13,37,50,21:16,39,10,-2
+Landeskog,Gabriel,28,"6'1""",216,Colorado Avalanche,COL,49,19,30,49,20:06,69,34,10
+Point,Brayden,24,"5'10""",165,Tampa Bay Lightning,TBL,53,23,25,48,18:28,23,11,8
+Kane,Evander,29,"6'2""",212,San Jose Sharks,SJS,53,22,26,48,20:15,92,40,3
+Zibanejad,Mika,27,"6'2""",214,New York Rangers,NYR,54,22,26,48,20:09,72,16,2
+Kaprizov,Kirill,23,"5'10""",192,Minnesota Wild,MIN,52,26,21,47,18:15,29,16,8
+Strome,Ryan,27,"6'1""",194,New York Rangers,NYR,54,14,33,47,18:20,21,37,6
+Pavelski,Joe,36,"5'11""",194,Dallas Stars,DAL,53,22,24,46,19:11,63,14,19
+Ehlers,Nikolaj,24,"6'0""",172,Winnipeg Jets,WPG,47,21,25,46,16:53,26,15,15
+Bergeron,Patrice,35,"6'1""",194,Boston Bruins,BOS,51,21,25,46,18:13,48,16,25
+Tavares,John,30,"6'1""",209,Toronto Maple Leafs,TOR,52,17,29,46,18:17,44,12,12
+Buchnevich,Pavel,25,"6'3""",196,New York Rangers,NYR,53,20,25,45,18:41,49,42,10
+Pastrnak,David,24,"6'0""",187,Boston Bruins,BOS,45,19,26,45,18:35,33,24,8
+Palat,Ondrej,29,"6'0""",187,Tampa Bay Lightning,TBL,53,15,30,45,17:31,79,24,6
+Connor,Kyle,24,"6'1""",183,Winnipeg Jets,WPG,52,22,22,44,18:41,16,12,-10
+Trocheck,Vincent,27,"5'10""",185,Carolina Hurricanes,CAR,44,17,26,43,18:22,102,16,2
+Lindholm,Elias,26,"6'1""",194,Calgary Flames,CGY,51,17,26,43,19:52,53,22,7
+Robertson,Jason,21,"6'3""",209,Dallas Stars,DAL,48,16,27,43,16:47,23,16,14
+Vorácek,Jakub,31,"6'2""",214,Philadelphia Flyers,PHI,50,9,34,43,16:59,16,16,-13
+Toffoli,Tyler,28,"6'0""",196,Montreal Canadiens,MTL,49,28,14,42,17:27,70,24,0
+Ovechkin,Alexander,35,"6'3""",236,Washington Capitals,WSH,44,24,18,42,19:30,94,12,-7
+Rust,Bryan,28,"5'11""",192,Pittsburgh Penguins,PIT,54,22,20,42,19:45,62,18,8
+Oshie,T.J.,34,"6'0""",194,Washington Capitals,WSH,51,21,21,42,18:12,67,18,-3
+Bjorkstrand,Oliver,25,"6'0""",176,Columbus Blue Jackets,CBJ,54,17,25,42,17:36,41,23,-13
+Svechnikov,Andrei,20,"6'2""",187,Carolina Hurricanes,CAR,53,15,27,42,17:35,110,42,5
+Hertl,Tomas,27,"6'2""",220,San Jose Sharks,SJS,47,19,22,41,19:11,37,25,4
+Giroux,Claude,32,"5'11""",185,Philadelphia Flyers,PHI,51,16,25,41,18:08,32,12,-5
+Marchessault,Jonathan,30,"5'9""",174,Vegas Golden Knights,VGK,51,16,25,41,17:14,37,39,16
+Barzal,Mathew,23,"6'0""",187,New York Islanders,NYI,52,15,26,41,18:43,21,46,15
+Reinhart,Sam,25,"6'1""",192,Buffalo Sabres,BUF,52,25,15,40,19:31,15,10,-24
+Hintz,Roope,24,"6'3""",216,Dallas Stars,DAL,40,14,26,40,18:18,50,4,9
+Necas,Martin,21,"6'2""",190,Carolina Hurricanes,CAR,50,13,27,40,17:19,41,10,26
+Fiala,Kevin,24,"5'10""",194,Minnesota Wild,MIN,47,20,19,39,16:56,26,41,1
+Boeser,Brock,23,"6'1""",207,Vancouver Canucks,VAN,47,19,20,39,19:30,29,12,-8
+Gaudreau,Johnny,27,"5'9""",165,Calgary Flames,CGY,51,18,21,39,18:21,8,4,-1
+Nylander,William,24,"6'0""",192,Toronto Maple Leafs,TOR,47,16,23,39,16:36,11,12,10
+van Riemsdyk,James,31,"6'3""",216,Philadelphia Flyers,PHI,53,16,23,39,16:30,39,14,0
+Copp,Andrew,26,"6'1""",205,Winnipeg Jets,WPG,52,15,24,39,18:21,64,20,3
+Wheeler,Blake,34,"6'5""",225,Winnipeg Jets,WPG,46,13,26,39,18:12,60,44,-22
+Kessel,Phil,33,"6'0""",203,Arizona Coyotes,ARI,54,18,20,38,17:04,8,12,-18
+Couturier,Sean,28,"6'3""",212,Philadelphia Flyers,PHI,42,16,22,38,19:25,33,8,-5
+Staal,Jordan,32,"6'4""",220,Carolina Hurricanes,CAR,51,16,22,38,18:30,133,30,2
+Suzuki,Nicholas,21,"5'11""",183,Montreal Canadiens,MTL,52,12,26,38,18:04,62,22,-5
+Krejcí,David,34,"6'0""",187,Boston Bruins,BOS,48,8,30,38,17:03,24,16,12
+Karlsson,William,27,"6'1""",190,Vegas Golden Knights,VGK,52,14,23,37,18:36,26,2,18
+Burakovsky,Andre,25,"6'3""",201,Colorado Avalanche,COL,48,17,19,36,14:59,16,10,0
+Miller,J.T.,27,"6'1""",218,Vancouver Canucks,VAN,44,12,24,36,21:06,83,31,-9
+Verhaeghe,Carter,25,"6'2""",190,Florida Panthers,FLA,42,17,18,35,17:46,31,27,23
+Farabee,Joel,20,"6'0""",172,Philadelphia Flyers,PHI,52,17,18,35,16:01,48,26,-3
+Gourde,Yanni,29,"5'9""",172,Tampa Bay Lightning,TBL,53,17,18,35,17:03,46,30,9
+Kubalik,Dominik,25,"6'2""",179,Chicago Blackhawks,CHI,53,17,18,35,15:20,55,18,-3
+Tkachuk,Brady,21,"6'4""",212,Ottawa Senators,OTT,53,17,18,35,18:17,235,63,-15
+Horvat,Bo,25,"6'0""",216,Vancouver Canucks,VAN,47,16,19,35,19:44,53,12,-6
+Keller,Clayton,22,"5'10""",170,Arizona Coyotes,ARI,54,14,21,35,16:39,19,18,-4
+Garland,Conor,24,"5'10""",165,Arizona Coyotes,ARI,47,10,25,35,17:52,26,26,-4
+Niederreiter,Nino,28,"6'2""",218,Carolina Hurricanes,CAR,53,20,14,34,15:45,64,27,20
+Stamkos,Steven,30,"6'1""",194,Tampa Bay Lightning,TBL,38,17,17,34,18:16,38,16,4
+Tkachuk,Matthew,23,"6'2""",203,Calgary Flames,CGY,51,10,24,34,18:09,128,49,3
+Bailey,Joshua,31,"6'1""",212,New York Islanders,NYI,51,8,26,34,17:35,13,4,10
+Hoffman,Mike,31,"6'0""",181,St. Louis Blues,STL,47,17,16,33,15:04,27,10,5
+Batherson,Drake,22,"6'3""",205,Ottawa Senators,OTT,53,17,16,33,16:26,95,8,-14
+Hyman,Zach,28,"6'1""",209,Toronto Maple Leafs,TOR,43,15,18,33,19:21,69,28,19
+Zacha,Pavel,23,"6'3""",209,New Jersey Devils,NJD,47,15,18,33,17:15,42,8,-13
+Norris,Joshua,21,"6'2""",192,Ottawa Senators,OTT,53,15,18,33,16:24,68,13,-10
+Nugent-Hopkins,Ryan,27,"6'0""",183,Edmonton Oilers,EDM,47,14,19,33,20:53,26,22,-4
+Atkinson,Cam,31,"5'8""",179,Columbus Blue Jackets,CBJ,54,14,19,33,18:59,20,4,-15
+Wilson,Tom,26,"6'4""",218,Washington Capitals,WSH,44,13,20,33,16:40,101,84,3
+Stephenson,Chandler,26,"6'0""",203,Vegas Golden Knights,VGK,47,13,20,33,18:00,38,27,21
+Roslovic,Jack,23,"6'1""",187,Columbus Blue Jackets,CBJ,46,11,22,33,16:50,29,14,-9
+Konecny,Travis,23,"5'10""",174,Philadelphia Flyers,PHI,47,11,22,33,15:55,51,26,-5
+Vrana,Jakub,24,"6'0""",196,Detroit Red Wings,DET,9,6,1,7,17:23,2,2,2
+Eberle,Jordan,30,"5'11""",187,New York Islanders,NYI,53,15,17,32,16:45,28,16,8
+Killorn,Alex,31,"6'1""",196,Tampa Bay Lightning,TBL,53,15,17,32,17:54,55,35,5
+Hörnqvist,Patric,33,"5'11""",190,Florida Panthers,FLA,44,14,18,32,16:47,80,39,-3
+Schenn,Brayden,29,"6'1""",201,St. Louis Blues,STL,51,14,18,32,19:20,105,29,1
+Smith,Craig,31,"6'1""",207,Boston Bruins,BOS,51,13,19,32,14:48,65,18,21
+Olofsson,Victor,25,"5'11""",183,Buffalo Sabres,BUF,54,13,19,32,17:20,16,6,-20
+Kyrou,Jordan,22,"6'0""",176,St. Louis Blues,STL,50,12,20,32,14:31,6,12,2
+Zuccarello,Mats,33,"5'8""",183,Minnesota Wild,MIN,39,11,21,32,16:35,11,8,7
+Schmaltz,Nick,24,"6'0""",176,Arizona Coyotes,ARI,52,10,22,32,17:03,15,16,-1
+Brown,Connor,26,"6'0""",183,Ottawa Senators,OTT,53,19,12,31,18:13,22,12,-1
+Tuch,Alex,24,"6'4""",223,Vegas Golden Knights,VGK,51,18,13,31,16:44,47,26,17
+Brown,Dustin,36,"6'0""",216,Los Angeles Kings,LAK,49,17,14,31,17:37,85,18,-3
+Couture,Logan,31,"6'1""",205,San Jose Sharks,SJS,53,17,14,31,19:15,58,25,-10
+Forsberg,Filip,26,"6'1""",205,Nashville Predators,NSH,37,12,19,31,18:22,45,16,-8
+Benn,Jamie,31,"6'2""",205,Dallas Stars,DAL,49,11,20,31,17:49,69,33,8
+Hughes,Jack,19,"5'11""",170,New Jersey Devils,NJD,53,11,20,31,19:09,15,14,-1
+Duclair,Anthony,25,"5'11""",192,Florida Panthers,FLA,41,10,21,31,15:38,30,18,25
+Greenway,Jordan,23,"6'6""",227,Minnesota Wild,MIN,52,6,25,31,15:50,80,49,8
+Kreider,Chris,29,"6'3""",216,New York Rangers,NYR,50,20,10,30,17:23,115,34,-1
+Nelson,Brock,29,"6'3""",212,New York Islanders,NYI,53,16,14,30,17:53,36,12,-6
+Comtois,Maxime,21,"6'2""",216,Anaheim Ducks,ANA,53,14,16,30,15:25,92,40,2
+Coleman,Blake,29,"5'11""",201,Tampa Bay Lightning,TBL,52,13,17,30,15:26,97,33,15
+Kadri,Nazem,30,"6'0""",192,Colorado Avalanche,COL,51,11,19,30,16:29,29,34,-7
+Tatar,Tomas,30,"5'10""",183,Montreal Canadiens,MTL,46,10,20,30,15:01,58,8,7
+Hall,Taylor,29,"6'1""",205,Boston Bruins,BOS,13,6,5,11,15:40,9,0,12
+Sharangovich,Yegor,22,"6'2""",205,New Jersey Devils,NJD,51,16,13,29,16:48,19,4,-2
+Donskoi,Joonas,28,"6'0""",190,Colorado Avalanche,COL,46,15,14,29,14:18,13,8,15
+Kempe,Adrian,24,"6'2""",194,Los Angeles Kings,LAK,51,14,15,29,16:56,46,20,-14
+McCann,Jared,24,"6'1""",185,Pittsburgh Penguins,PIT,41,13,16,29,14:07,38,6,12
+Stastny,Paul,35,"6'0""",194,Winnipeg Jets,WPG,52,13,16,29,17:38,36,30,-2
+Meier,Timo,24,"6'0""",216,San Jose Sharks,SJS,51,10,19,29,16:03,72,22,-6
+Kuznetsov,Evgeny,28,"6'2""",205,Washington Capitals,WSH,41,9,20,29,16:34,21,18,7
+Eriksson,Joel,23,"6'1""",207,Minnesota Wild,MIN,52,18,10,28,17:06,97,16,16
+Dvorak,Christian,24,"6'0""",194,Arizona Coyotes,ARI,54,15,13,28,18:22,47,12,-11
+Pageau,Jean-Gabriel,28,"5'10""",183,New York Islanders,NYI,51,14,14,28,16:47,107,10,9
+Iafallo,Alex,27,"6'0""",185,Los Angeles Kings,LAK,50,12,16,28,19:58,23,2,-5
+Hayes,Kevin,28,"6'5""",216,Philadelphia Flyers,PHI,52,12,16,28,17:36,59,22,-6
+Guryanov,Denis,23,"6'3""",201,Dallas Stars,DAL,52,11,17,28,15:55,58,21,0
+Kapanen,Kasperi,24,"6'1""",192,Pittsburgh Penguins,PIT,38,10,18,28,15:32,41,7,15
+Monahan,Sean,26,"6'2""",201,Calgary Flames,CGY,49,10,18,28,17:46,48,10,-6
+Spezza,Jason,37,"6'3""",216,Toronto Maple Leafs,TOR,50,10,18,28,10:58,22,6,3
+Bratt,Jesper,22,"5'10""",174,New Jersey Devils,NJD,43,7,21,28,16:06,31,8,4
+Mantha,Anthony,26,"6'5""",225,Washington Capitals,WSH,11,4,2,6,17:03,13,4,0
+Järnkrok,Calle,29,"5'11""",185,Nashville Predators,NSH,48,13,14,27,16:49,29,14,10
+Malkin,Evgeni,34,"6'3""",194,Pittsburgh Penguins,PIT,31,8,19,27,17:57,18,24,-4
+Backlund,Mikael,31,"6'0""",201,Calgary Flames,CGY,49,8,19,27,17:28,42,28,-10
+Mangiapane,Andrew,24,"5'10""",176,Calgary Flames,CGY,51,13,13,26,16:45,44,24,-6
+Labanc,Kevin,25,"5'11""",185,San Jose Sharks,SJS,52,11,15,26,16:29,58,31,-10
+Stützle,Tim,18,"6'1""",187,Ottawa Senators,OTT,50,9,17,26,15:44,48,14,-19
+Rakell,Rickard,27,"6'1""",203,Anaheim Ducks,ANA,50,8,18,26,17:53,65,12,-13
+Vatrano,Frank,26,"5'11""",196,Florida Panthers,FLA,54,18,7,25,14:28,66,22,5
+Wood,Miles,25,"6'2""",194,New Jersey Devils,NJD,53,17,8,25,15:03,37,29,-5
+Beauvillier,Anthony,23,"5'11""",183,New York Islanders,NYI,44,14,11,25,16:28,37,12,13
+Ritchie,Nick,25,"6'2""",234,Boston Bruins,BOS,52,14,11,25,15:23,95,37,-6
+Granlund,Mikael,28,"5'10""",185,Nashville Predators,NSH,50,13,12,25,19:30,45,14,-4
+Wennberg,Alexander,26,"6'2""",196,Florida Panthers,FLA,54,13,12,25,18:04,28,8,2
+Carter,Jeff,35,"6'3""",216,Pittsburgh Penguins,PIT,12,4,2,6,17:04,4,0,4
+Arvidsson,Viktor,27,"5'9""",181,Nashville Predators,NSH,50,10,15,25,16:36,15,21,9
+Bennett,Sam,24,"6'1""",194,Florida Panthers,FLA,9,5,8,13,18:13,28,21,11
+Anderson,Josh,26,"6'3""",220,Montreal Canadiens,MTL,49,17,7,24,16:20,129,38,-7
+Saad,Brandon,28,"6'1""",205,Colorado Avalanche,COL,44,15,9,24,14:05,16,12,1
+Kuokkanen,Janne,22,"6'1""",194,New Jersey Devils,NJD,47,7,17,24,14:40,9,14,-7
+Danault,Phillip,27,"6'1""",198,Montreal Canadiens,MTL,52,5,19,24,17:07,76,24,12
+Gallagher,Brendan,28,"5'9""",183,Montreal Canadiens,MTL,35,14,9,23,15:00,46,16,10
+Puljujärvi,Jesse,22,"6'4""",203,Edmonton Oilers,EDM,50,13,10,23,15:07,92,16,8
+Suter,Pius,24,"5'9""",176,Chicago Blackhawks,CHI,52,13,10,23,16:09,25,14,-6
+Janmark-Nylén,Mattias,28,"6'1""",194,Vegas Golden Knights,VGK,11,1,3,4,17:29,3,2,2
+Foligno,Marcus,29,"6'3""",227,Minnesota Wild,MIN,35,10,13,23,14:56,100,49,21
+Athanasiou,Andreas,26,"6'2""",187,Los Angeles Kings,LAK,43,10,13,23,14:55,10,27,-7
+Lowry,Adam,27,"6'5""",209,Winnipeg Jets,WPG,48,10,13,23,15:31,143,13,6
+Moore,Trevor,25,"5'10""",183,Los Angeles Kings,LAK,51,10,13,23,14:24,38,18,-2
+Larkin,Dylan,24,"6'1""",198,Detroit Red Wings,DET,44,9,14,23,20:24,38,34,-14
+Bonino,Nick,32,"6'1""",196,Minnesota Wild,MIN,51,9,14,23,14:52,10,26,0
+Domi,Max,25,"5'10""",194,Columbus Blue Jackets,CBJ,52,8,15,23,15:10,15,73,-16
+Drouin,Jonathan,25,"6'0""",194,Montreal Canadiens,MTL,44,2,21,23,16:05,42,20,-8
+Blackwell,Colin,27,"5'10""",190,New York Rangers,NYR,45,12,10,22,13:49,42,15,4
+Tolvanen,Eeli,21,"5'11""",181,Nashville Predators,NSH,38,11,11,22,14:48,72,4,-10
+Cirelli,Anthony,23,"6'0""",181,Tampa Bay Lightning,TBL,47,9,13,22,17:53,61,10,5
+Höglander,Nils,20,"5'9""",185,Vancouver Canucks,VAN,47,9,13,22,15:28,25,10,-4
+Appleton,Mason,24,"6'2""",201,Winnipeg Jets,WPG,52,9,13,22,14:23,56,12,9
+Hagel,Brandon,22,"6'1""",174,Chicago Blackhawks,CHI,49,8,14,22,13:47,55,11,-7
+Johnson,Tyler,30,"5'8""",183,Tampa Bay Lightning,TBL,52,8,14,22,13:39,59,16,2
+Blueger,Teodors,26,"6'0""",194,Pittsburgh Penguins,PIT,41,7,15,22,14:58,51,16,11
+Sheary,Conor,28,"5'8""",176,Washington Capitals,WSH,50,13,8,21,13:29,22,14,-4
+Laine,Patrik,22,"6'5""",205,Columbus Blue Jackets,CBJ,43,10,8,18,17:27,32,21,-28
+Pettersson,Elias,22,"6'2""",176,Vancouver Canucks,VAN,26,10,11,21,18:34,11,6,0
+Mittelstadt,Casey,22,"6'1""",203,Buffalo Sabres,BUF,39,10,11,21,15:49,8,10,-9
+Dubois,Pierre-Luc,22,"6'3""",207,Winnipeg Jets,WPG,37,8,12,20,15:19,53,34,-3
+Chytil,Filip,21,"6'2""",207,New York Rangers,NYR,40,8,13,21,13:16,15,10,9
+Rask,Victor,27,"6'2""",201,Minnesota Wild,MIN,50,8,13,21,14:22,17,2,3
+Kerfoot,Alexander,26,"5'10""",174,Toronto Maple Leafs,TOR,52,8,13,21,14:18,39,12,3
+Eller,Lars,31,"6'2""",207,Washington Capitals,WSH,41,7,14,21,16:04,32,21,-2
+Hartman,Ryan,26,"6'0""",181,Minnesota Wild,MIN,47,6,15,21,14:57,53,31,0
+Dadonov,Evgeny,31,"5'11""",185,Ottawa Senators,OTT,52,13,7,20,15:39,34,2,-7
+Erne,Adam,25,"6'1""",214,Detroit Red Wings,DET,45,11,9,20,13:55,82,26,-1
+Lafrenière,Alexis,19,"6'1""",203,New York Rangers,NYR,54,11,9,20,13:47,43,8,-6
+Nichushkin,Valeri,25,"6'4""",209,Colorado Avalanche,COL,50,10,10,20,13:51,55,4,9
+Foegele,Warren,24,"6'2""",190,Carolina Hurricanes,CAR,50,10,10,20,14:06,59,18,6
+Perry,Corey,35,"6'3""",205,Montreal Canadiens,MTL,45,9,11,20,13:30,51,37,-3
+Palmieri,Kyle,29,"5'11""",185,New York Islanders,NYI,14,1,2,3,14:09,15,2,-2
+Vilardi,Gabriel,21,"6'3""",201,Los Angeles Kings,LAK,49,9,11,20,14:37,16,4,-9
+Lucic,Milan,32,"6'3""",231,Calgary Flames,CGY,51,9,11,20,13:41,134,42,-9
+Zajac,Travis,35,"6'2""",185,New York Islanders,NYI,11,1,1,2,15:06,7,0,1
+Yamamoto,Kailer,22,"5'8""",159,Edmonton Oilers,EDM,49,8,12,20,16:26,50,24,8
+Haula,Erik,29,"6'0""",194,Nashville Predators,NSH,50,8,12,20,16:00,60,14,4
+Foligno,Nick,33,"6'0""",203,Toronto Maple Leafs,TOR,5,0,4,4,14:55,16,2,5
+Johansen,Ryan,28,"6'3""",218,Nashville Predators,NSH,46,6,14,20,16:59,42,22,-1
+Donato,Ryan,24,"6'0""",181,San Jose Sharks,SJS,50,6,14,20,12:36,50,10,-10
+Kotkaniemi,Jesperi,20,"6'2""",183,Montreal Canadiens,MTL,52,5,15,20,14:53,77,12,1
+Paul,Nick,25,"6'3""",218,Ottawa Senators,OTT,53,5,15,20,16:03,71,19,6
+Lee,Anders,30,"6'3""",231,New York Islanders,NYI,27,12,7,19,17:31,39,12,11
+Sprong,Daniel,23,"5'11""",192,Washington Capitals,WSH,39,12,7,19,11:24,25,8,8
+Joseph,Mathieu,23,"6'1""",190,Tampa Bay Lightning,TBL,53,12,7,19,10:51,77,10,7
+Henrique,Adam,30,"6'0""",196,Anaheim Ducks,ANA,44,11,8,19,16:05,40,11,-9
+Smith,Reilly,29,"6'1""",183,Vegas Golden Knights,VGK,49,10,9,19,17:46,42,16,6
+Laughton,Scott,26,"6'1""",190,Philadelphia Flyers,PHI,50,8,11,19,15:24,134,37,11
+Brassard,Derick,33,"6'1""",203,Arizona Coyotes,ARI,51,8,11,19,14:43,78,12,-11
+Terry,Troy,23,"6'1""",179,Anaheim Ducks,ANA,46,7,12,19,14:41,5,14,-2
+Fast,Jesper,29,"6'1""",192,Carolina Hurricanes,CAR,43,6,13,19,15:18,74,14,-2
+Zadina,Filip,21,"6'0""",194,Detroit Red Wings,DET,47,6,13,19,16:47,20,0,-3
+Tierney,Chris,26,"6'1""",194,Ottawa Senators,OTT,53,6,13,19,15:06,23,8,-12
+Wahlstrom,Oliver,20,"6'2""",201,New York Islanders,NYI,41,11,7,18,12:09,49,21,1
+Fabbri,Robby,24,"5'10""",190,Detroit Red Wings,DET,30,10,8,18,17:16,34,16,3
+White,Colin,23,"6'1""",190,Ottawa Senators,OTT,43,10,8,18,14:36,56,16,-3
+Dube,Dillon,22,"5'11""",185,Calgary Flames,CGY,46,9,9,18,13:46,58,18,-3
+Nosek,Tomas,28,"6'3""",209,Vegas Golden Knights,VGK,38,8,10,18,13:00,51,10,7
+Parise,Zach,36,"5'11""",194,Minnesota Wild,MIN,44,7,11,18,13:54,17,6,8
+Schwartz,Jaden,28,"5'10""",190,St. Louis Blues,STL,36,6,12,18,17:53,32,18,3
+Goodrow,Barclay,27,"6'2""",209,Tampa Bay Lightning,TBL,53,6,12,18,15:05,102,45,15
+Thornton,Joe,41,"6'4""",220,Toronto Maple Leafs,TOR,40,5,13,18,13:41,31,14,4
+Maroon,Patrick,32,"6'3""",225,Tampa Bay Lightning,TBL,53,4,14,18,11:28,70,48,3
+Eichel,Jack,24,"6'2""",201,Buffalo Sabres,BUF,21,2,16,18,20:29,20,6,-9
+Kakko,Kaapo,19,"6'3""",198,New York Rangers,NYR,47,9,8,17,14:23,13,10,3
+Perreault,Mathieu,32,"5'10""",187,Winnipeg Jets,WPG,52,9,8,17,11:30,73,16,7
+Kunin,Luke,23,"6'0""",194,Nashville Predators,NSH,37,8,9,17,14:03,83,13,1
+Jenner,Boone,27,"6'2""",205,Columbus Blue Jackets,CBJ,41,8,9,17,17:59,76,6,-9
+Söderberg,Carl,35,"6'3""",209,Colorado Avalanche,COL,9,0,2,2,13:35,12,4,1
+Tippett,Owen,21,"6'2""",203,Florida Panthers,FLA,43,7,10,17,11:25,55,6,-6
+Hathaway,Garnet,29,"6'3""",209,Washington Capitals,WSH,53,6,11,17,12:21,167,64,8
+Getzlaf,Ryan,35,"6'4""",225,Anaheim Ducks,ANA,47,5,12,17,16:38,66,41,-13
+Cousins,Nick,27,"5'11""",185,Nashville Predators,NSH,51,5,12,17,13:19,44,41,3
+Zucker,Jason,28,"5'11""",183,Pittsburgh Penguins,PIT,36,9,7,16,15:41,68,19,-8
+Silfverberg,Jakob,30,"6'1""",205,Anaheim Ducks,ANA,47,8,8,16,16:56,19,18,-17
+Tanev,Brandon,29,"6'0""",181,Pittsburgh Penguins,PIT,32,7,9,16,14:26,139,22,12
+Balcers,Rudolfs,23,"5'11""",174,San Jose Sharks,SJS,38,7,9,16,14:31,76,16,-5
+Mikheyev,Ilya,26,"6'3""",194,Toronto Maple Leafs,TOR,50,6,10,16,14:11,49,6,4
+Coyle,Charlie,28,"6'3""",220,Boston Bruins,BOS,51,6,10,16,16:17,57,20,-4
+Pearson,Tanner,28,"6'1""",201,Vancouver Canucks,VAN,43,10,5,15,16:52,48,26,-10
+Aston-Reese,Zach,26,"6'0""",205,Pittsburgh Penguins,PIT,43,9,6,15,14:43,86,15,11
+Blais,Samuel,24,"6'2""",205,St. Louis Blues,STL,35,8,7,15,11:58,102,12,-1
+Strome,Dylan,23,"6'3""",201,Chicago Blackhawks,CHI,39,8,7,15,15:29,7,14,-16
+Kurashev,Philipp,21,"6'0""",192,Chicago Blackhawks,CHI,51,8,7,15,12:56,27,12,-9
+Sissons,Colton,27,"6'1""",201,Nashville Predators,NSH,53,8,7,15,14:17,72,18,2
+Robinson,Eric,25,"6'2""",201,Columbus Blue Jackets,CBJ,54,7,8,15,12:14,92,4,5
+Bjugstad,Nick,28,"6'6""",216,Minnesota Wild,MIN,40,6,9,15,11:53,44,17,7
+Namestnikov,Vladislav,28,"6'0""",183,Detroit Red Wings,DET,51,6,9,15,16:11,71,24,-6
+Glendening,Luke,31,"5'11""",192,Detroit Red Wings,DET,52,6,9,15,14:45,66,20,3
+Teräväinen,Teuvo,26,"5'11""",179,Carolina Hurricanes,CAR,18,5,10,15,16:37,8,2,10
+Hagelin,Carl,32,"6'0""",185,Washington Capitals,WSH,53,5,10,15,14:08,22,19,8
+Texier,Alexandre,21,"6'1""",192,Columbus Blue Jackets,CBJ,49,4,11,15,15:50,49,22,-13
+Dowd,Nic,30,"6'2""",196,Washington Capitals,WSH,53,11,3,14,14:24,101,29,4
+Sturm,Nico,25,"6'3""",205,Minnesota Wild,MIN,46,9,5,14,10:49,45,17,12
+Sanford,Zachary,26,"6'4""",207,St. Louis Blues,STL,47,9,5,14,14:51,54,25,-14
+Larsson,Johan,28,"5'11""",203,Arizona Coyotes,ARI,52,8,6,14,13:58,77,24,-13
+Rooney,Kevin,27,"6'2""",190,New York Rangers,NYR,52,8,6,14,12:18,107,54,0
+Ryan,Bobby,33,"6'2""",209,Detroit Red Wings,DET,33,7,7,14,15:19,31,27,-14
+Rodrigues,Evan,27,"5'11""",183,Pittsburgh Penguins,PIT,35,7,7,14,14:06,21,6,-3
+Armia,Joel,27,"6'4""",209,Montreal Canadiens,MTL,37,7,7,14,14:37,81,8,8
+Heinen,Danton,25,"6'1""",185,Anaheim Ducks,ANA,41,7,7,14,14:38,32,0,-8
+Cizikas,Casey,29,"5'11""",194,New York Islanders,NYI,53,7,7,14,13:53,105,25,-1
+Johansson,Marcus,30,"6'1""",205,Minnesota Wild,MIN,32,6,8,14,15:54,10,4,-6
+Dickinson,Jason,25,"6'2""",201,Dallas Stars,DAL,48,6,8,14,16:08,72,16,1
+Grant,Derek,30,"6'3""",216,Anaheim Ducks,ANA,45,5,9,14,14:31,65,23,-5
+Tarasenko,Vladimir,29,"6'0""",225,St. Louis Blues,STL,24,4,10,14,17:25,30,0,-7
+Bozak,Tyler,34,"6'1""",198,St. Louis Blues,STL,27,4,10,14,14:53,17,6,-1
+Byron,Paul,31,"5'9""",163,Montreal Canadiens,MTL,44,4,10,14,12:45,110,12,3
+Comeau,Blake,34,"6'1""",201,Dallas Stars,DAL,48,4,10,14,15:44,102,37,-11
+Jost,Tyson,22,"5'11""",192,Colorado Avalanche,COL,49,4,10,14,13:51,42,24,9
+McGinn,Brock,26,"6'0""",185,Carolina Hurricanes,CAR,37,8,5,13,14:59,44,6,0
+Dzingel,Ryan,28,"6'0""",190,Ottawa Senators,OTT,27,6,3,9,12:38,33,19,-3
+Chiasson,Alex,30,"6'4""",207,Edmonton Oilers,EDM,40,8,5,13,12:24,33,24,-5
+Lindblom,Oskar,24,"6'1""",192,Philadelphia Flyers,PHI,47,8,5,13,13:14,40,9,-7
+Mcleod,Michael,22,"6'2""",187,New Jersey Devils,NJD,49,8,5,13,13:44,84,36,-11
+Kahun,Dominik,25,"5'11""",174,Edmonton Oilers,EDM,43,7,6,13,12:40,11,2,-3
+Archibald,Josh,28,"5'10""",176,Edmonton Oilers,EDM,47,7,6,13,13:26,172,33,5
+Gagner,Sam,31,"5'11""",201,Detroit Red Wings,DET,40,6,7,13,15:21,5,15,-1
+Compher,J.T.,25,"6'0""",194,Colorado Avalanche,COL,43,6,7,13,14:08,30,19,4
+Skinner,Jeff,28,"5'11""",187,Buffalo Sabres,BUF,51,6,7,13,14:35,19,14,-10
+Faksa,Radek,26,"6'3""",220,Dallas Stars,DAL,52,6,7,13,17:28,92,24,-14
+Roy,Nicolas,23,"6'4""",216,Vegas Golden Knights,VGK,46,5,8,13,12:51,44,14,6
+Cozens,Dylan,19,"6'3""",187,Buffalo Sabres,BUF,39,4,9,13,14:25,29,16,-13
+Martinook,Jordan,28,"6'0""",205,Carolina Hurricanes,CAR,43,4,9,13,12:39,83,23,-1
+Crouse,Lawson,23,"6'4""",220,Arizona Coyotes,ARI,51,4,9,13,14:17,155,46,-10
+Leonard,John,22,"5'11""",185,San Jose Sharks,SJS,43,3,10,13,11:23,25,2,-7
+Okposo,Kyle,32,"6'0""",218,Buffalo Sabres,BUF,35,2,11,13,13:52,29,0,-1
+Bunting,Michael,25,"5'11""",196,Arizona Coyotes,ARI,19,9,3,12,16:48,28,12,-1
+Colton,Ross,24,"6'0""",203,Tampa Bay Lightning,TBL,27,9,3,12,10:22,31,4,6
+Grimaldi,Rocco,27,"5'6""",161,Nashville Predators,NSH,39,9,3,12,12:45,20,4,-4
+Sutter,Brandon,31,"6'3""",190,Vancouver Canucks,VAN,43,9,3,12,15:04,18,2,-9
+Volkov,Alexander,23,"6'1""",185,Anaheim Ducks,ANA,16,4,3,7,13:52,16,2,-1
+Thompson,Tage,23,"6'6""",216,Buffalo Sabres,BUF,36,7,5,12,13:48,24,17,-5
+Steel,Sam,22,"5'11""",185,Anaheim Ducks,ANA,40,6,6,12,14:38,39,8,-6
+Lazar,Curtis,25,"6'0""",209,Boston Bruins,BOS,13,1,2,3,12:52,29,6,0
+Carrier,William,26,"6'2""",212,Vegas Golden Knights,VGK,48,5,7,12,10:20,115,14,-3
+Staal,Eric,36,"6'4""",207,Montreal Canadiens,MTL,18,2,0,2,13:07,8,2,-11
+Radulov,Alexander,34,"6'1""",205,Dallas Stars,DAL,11,4,8,12,17:47,4,6,9
+Grigorenko,Mikhail,26,"6'3""",209,Columbus Blue Jackets,CBJ,30,4,8,12,13:37,14,6,-1
+Sheahan,Riley,29,"6'3""",214,Buffalo Sabres,BUF,51,4,8,12,13:17,17,8,-10
+Thomas,Robert,21,"6'0""",187,St. Louis Blues,STL,28,3,9,12,13:33,3,8,1
+Aube-Kubel,Nicolas,24,"5'11""",205,Philadelphia Flyers,PHI,47,3,9,12,11:02,116,42,-3
+Asplund,Rasmus,23,"5'11""",183,Buffalo Sabres,BUF,26,7,4,11,12:42,13,0,2
+Anderson-Dolan,Jaret,21,"5'11""",192,Los Angeles Kings,LAK,29,7,4,11,13:39,47,6,-7
+Jones,Max,22,"6'3""",220,Anaheim Ducks,ANA,44,7,4,11,14:10,100,34,-9
+Pitlick,Tyler,29,"6'2""",201,Arizona Coyotes,ARI,38,6,5,11,16:21,81,16,-1
+Martin,Matthew,31,"6'3""",220,New York Islanders,NYI,52,6,5,11,11:00,169,36,-2
+Filppula,Valtteri,36,"6'0""",196,Detroit Red Wings,DET,36,5,6,11,15:26,9,12,-4
+Gaudette,Adam,24,"6'1""",183,Chicago Blackhawks,CHI,5,1,3,4,11:52,4,0,-1
+Bjork,Anders,24,"6'0""",185,Buffalo Sabres,BUF,13,3,3,6,16:36,10,4,-1
+Gambrell,Dylan,24,"6'0""",194,San Jose Sharks,SJS,46,5,6,11,15:53,72,13,-15
+Cogliano,Andrew,33,"5'10""",176,Dallas Stars,DAL,51,5,6,11,13:53,78,24,-7
+Galchenyuk,Alex,26,"6'1""",207,Toronto Maple Leafs,TOR,22,3,7,10,13:54,26,12,-2
+Duchene,Matt,29,"5'11""",194,Nashville Predators,NSH,32,4,7,11,15:55,29,6,-13
+DeBrusk,Jake,24,"6'0""",187,Boston Bruins,BOS,37,4,7,11,14:50,31,6,1
+Acciari,Noel,29,"5'10""",207,Florida Panthers,FLA,40,4,7,11,15:24,86,4,1
+Jankowski,Mark,26,"6'4""",212,Pittsburgh Penguins,PIT,45,4,7,11,10:42,35,6,4
+Panik,Richard,29,"6'2""",203,Detroit Red Wings,DET,10,1,1,2,14:21,17,2,-1
+Clutterbuck,Cal,33,"6'0""",209,New York Islanders,NYI,48,4,7,11,13:28,182,10,-5
+Khaira,Jujhar,26,"6'4""",212,Edmonton Oilers,EDM,35,3,8,11,11:45,132,42,2
+Zegras,Trevor,19,"6'0""",170,Anaheim Ducks,ANA,22,2,9,11,15:17,6,12,5
+Kämpf,David,25,"6'2""",187,Chicago Blackhawks,CHI,53,1,10,11,14:31,39,20,-4
+Grundström,Carl,23,"6'0""",187,Los Angeles Kings,LAK,42,6,4,10,12:26,99,14,-5
+Stenlund,Kevin,24,"6'4""",209,Columbus Blue Jackets,CBJ,31,5,5,10,12:24,17,6,-4
+Trenin,Yakov,23,"6'3""",216,Nashville Predators,NSH,43,5,5,10,11:22,89,18,3
+Sceviour,Colton,31,"6'0""",192,Pittsburgh Penguins,PIT,44,5,5,10,9:32,61,2,1
+Deslauriers,Nick,29,"6'3""",218,Anaheim Ducks,ANA,48,5,5,10,11:21,136,53,-6
+Glass,Cody,21,"6'2""",176,Vegas Golden Knights,VGK,27,4,6,10,14:32,10,8,6
+Gusev,Nikita,28,"5'11""",181,Florida Panthers,FLA,10,2,3,5,16:08,2,2,0
+Barbashev,Ivan,25,"6'0""",187,St. Louis Blues,STL,33,4,6,10,13:14,39,4,2
+Johnson,Andreas,26,"5'10""",181,New Jersey Devils,NJD,48,4,6,10,13:58,36,12,-1
+Hinostroza,Vince,26,"5'9""",172,Chicago Blackhawks,CHI,14,3,7,10,13:16,27,6,0
+Watson,Austin,28,"6'4""",205,Ottawa Senators,OTT,34,3,7,10,12:00,100,40,-7
+Bastian,Nathan,23,"6'4""",205,New Jersey Devils,NJD,38,3,7,10,12:28,125,21,1
+Rasmussen,Michael,21,"6'6""",220,Detroit Red Wings,DET,38,3,7,10,14:43,68,24,-6
+Raffl,Michael,32,"6'0""",201,Washington Capitals,WSH,7,0,2,2,15:08,14,7,0
+Lizotte,Blake,23,"5'7""",172,Los Angeles Kings,LAK,41,3,7,10,12:42,32,16,2
+Lemieux,Brendan,24,"6'1""",209,Los Angeles Kings,LAK,13,1,2,3,9:27,27,7,0
+Dach,Kirby,19,"6'4""",196,Chicago Blackhawks,CHI,18,2,8,10,18:34,7,4,-3
+Merkley,Nicholas,23,"5'11""",192,New Jersey Devils,NJD,27,2,8,10,11:30,28,7,-5
+Kolesar,Keegan,23,"6'2""",223,Vegas Golden Knights,VGK,40,2,8,10,9:20,95,30,-7
+Evans,Jake,24,"6'1""",185,Montreal Canadiens,MTL,43,2,8,10,11:34,76,27,2
+Simmonds,Wayne,32,"6'2""",185,Toronto Maple Leafs,TOR,34,7,2,9,12:03,56,45,-1
+Hischier,Nico,21,"6'1""",174,New Jersey Devils,NJD,18,6,3,9,18:30,9,4,-9
+Motte,Tyler,25,"5'10""",192,Vancouver Canucks,VAN,24,6,3,9,16:01,100,14,0
+Maltsev,Mikhail,22,"6'3""",198,New Jersey Devils,NJD,33,6,3,9,11:26,26,4,-4
+Lundeström,Isac,21,"6'0""",187,Anaheim Ducks,ANA,39,6,3,9,15:08,15,14,-9
+Shore,Devin,26,"6'1""",205,Edmonton Oilers,EDM,35,5,4,9,10:45,64,6,-3
+Lehkonen,Artturi,25,"6'0""",176,Montreal Canadiens,MTL,43,5,4,9,13:15,75,6,-4
+Lewis,Trevor,33,"6'1""",205,Winnipeg Jets,WPG,52,5,4,9,9:41,63,0,7
+Sundqvist,Oscar,26,"6'3""",209,St. Louis Blues,STL,28,4,5,9,15:09,50,14,-6
+Engvall,Pierre,24,"6'5""",214,Toronto Maple Leafs,TOR,38,4,5,9,11:55,37,12,3
+Kuraly,Sean,27,"6'2""",214,Boston Bruins,BOS,44,4,5,9,14:02,91,20,-9
+Patrick,Nolan,22,"6'2""",198,Philadelphia Flyers,PHI,49,4,5,9,13:20,43,20,-25
+Marleau,Patrick,41,"6'2""",218,San Jose Sharks,SJS,53,4,5,9,13:16,37,10,-8
+Ennis,Tyler,31,"5'9""",161,Edmonton Oilers,EDM,30,3,6,9,12:07,43,6,0
+Kero,Tanner,28,"6'0""",185,Dallas Stars,DAL,36,3,6,9,10:33,25,4,-2
+Fischer,Christian,23,"6'2""",214,Arizona Coyotes,ARI,50,3,6,9,12:41,146,4,-11
+Marchment,Mason,25,"6'4""",205,Florida Panthers,FLA,31,2,7,9,14:15,66,16,3
+Ryan,Derek,34,"5'10""",185,Calgary Flames,CGY,38,2,7,9,11:31,13,14,4
+Bellemare,Pierre-Edouard,35,"6'0""",198,Colorado Avalanche,COL,48,7,1,8,11:22,23,21,5
+Kiviranta,Joel,24,"5'11""",181,Dallas Stars,DAL,23,4,4,8,12:07,28,6,1
+Wagner,Austin,23,"6'1""",179,Los Angeles Kings,LAK,40,4,4,8,10:21,91,13,-11
+Paquette,Cedric,27,"6'1""",198,Carolina Hurricanes,CAR,38,3,4,7,9:08,109,17,-4
+Hunt,Dryden,25,"6'0""",196,Arizona Coyotes,ARI,25,3,5,8,12:05,93,4,-6
+Boyd,Travis,27,"6'0""",190,Vancouver Canucks,VAN,10,0,0,0,11:11,7,0,-4
+Luostarinen,Eetu,22,"6'3""",183,Florida Panthers,FLA,44,3,5,8,13:08,55,12,-11
+Helm,Darren,33,"6'0""",196,Detroit Red Wings,DET,45,3,5,8,14:36,38,10,-4
+Anisimov,Artem,32,"6'4""",198,Ottawa Senators,OTT,18,2,6,8,11:56,8,2,1
+Gauthier,Julien,23,"6'4""",225,New York Rangers,NYR,30,2,6,8,9:38,56,14,-6
+Geekie,Morgan,22,"6'3""",192,Carolina Hurricanes,CAR,33,2,6,8,9:36,27,8,0
+Di Giuseppe,Phil,27,"6'0""",192,New York Rangers,NYR,29,1,7,8,11:01,76,13,2
+Caggiula,Drake,26,"5'10""",176,Buffalo Sabres,BUF,9,0,1,1,12:03,14,4,-6
+Bertuzzi,Tyler,25,"6'1""",198,Detroit Red Wings,DET,9,5,2,7,19:36,13,4,0
+Nieto,Matthew,28,"5'11""",190,San Jose Sharks,SJS,28,5,2,7,13:59,25,4,-5
+Leivo,Josh,27,"6'2""",192,Calgary Flames,CGY,36,5,2,7,10:36,32,10,-5
+Vesey,Jimmy,27,"6'3""",198,Vancouver Canucks,VAN,11,0,0,0,16:04,11,0,-7
+Rieder,Tobias,27,"5'11""",185,Buffalo Sabres,BUF,44,5,2,7,12:14,21,2,-9
+Neal,James,33,"6'3""",212,Edmonton Oilers,EDM,24,4,3,7,12:02,22,7,0
+Boqvist,Jesper,22,"6'0""",181,New Jersey Devils,NJD,25,4,3,7,10:50,15,2,-5
+Svechnikov,Evgeny,24,"6'3""",207,Detroit Red Wings,DET,20,3,4,7,11:41,20,10,-3
+Eakin,Cody,29,"6'0""",190,Buffalo Sabres,BUF,46,3,4,7,12:56,33,14,-9
+Barabanov,Alexander,26,"5'10""",196,San Jose Sharks,SJS,6,2,4,6,17:26,2,2,4
+Nash,Riley,31,"6'2""",185,Columbus Blue Jackets,CBJ,37,2,5,7,12:35,33,4,-1
+Lorentz,Steven,24,"6'4""",205,Carolina Hurricanes,CAR,42,2,5,7,10:15,46,8,2
+Howden,Brett,22,"6'3""",194,New York Rangers,NYR,42,1,6,7,12:33,57,11,-2
+Ruotsalainen,Arttu,23,"5'8""",181,Buffalo Sabres,BUF,15,5,1,6,14:17,15,6,-7
+Gregor,Noah,22,"6'0""",174,San Jose Sharks,SJS,27,5,1,6,11:28,42,6,-14
+Formenton,Alex,21,"6'3""",190,Ottawa Senators,OTT,18,4,2,6,12:06,23,6,5
+Clifford,Kyle,29,"6'2""",212,St. Louis Blues,STL,45,4,2,6,9:33,57,30,-5
+Connolly,Brett,28,"6'3""",194,Chicago Blackhawks,CHI,9,1,1,2,11:31,18,2,-1
+Carrick,Sam,28,"6'0""",205,Anaheim Ducks,ANA,11,2,4,6,13:11,25,28,4
+Gaudreau,Frederick,27,"6'0""",185,Pittsburgh Penguins,PIT,17,2,4,6,13:06,9,2,5
+Stepan,Derek,30,"6'0""",196,Ottawa Senators,OTT,20,1,5,6,15:03,25,8,-6
+Nielsen,Frans,36,"6'1""",187,Detroit Red Wings,DET,29,1,5,6,12:08,23,0,-3
+Komarov,Leo,33,"5'11""",209,New York Islanders,NYI,31,1,5,6,12:45,74,11,7
+Rowney,Carter,31,"6'2""",205,Anaheim Ducks,ANA,19,0,6,6,14:16,45,2,-2
+Lafferty,Sam,25,"6'1""",185,Pittsburgh Penguins,PIT,34,0,6,6,9:46,89,25,-6
+Virtanen,Jake,24,"6'1""",227,Vancouver Canucks,VAN,38,5,0,5,12:15,83,41,-4
+Brooks,Adam,24,"5'10""",181,Toronto Maple Leafs,TOR,9,4,1,5,10:18,12,0,5
+Jeannot,Tanner,23,"6'2""",216,Nashville Predators,NSH,13,4,1,5,11:39,45,2,4
+Frederic,Trent,22,"6'2""",201,Boston Bruins,BOS,39,4,1,5,11:17,57,55,-5
+Carpenter,Ryan,29,"6'0""",201,Chicago Blackhawks,CHI,40,4,1,5,12:41,78,19,-10
+Bemström,Emil,21,"6'0""",190,Columbus Blue Jackets,CBJ,18,3,2,5,12:40,15,0,3
+O'Connor,Logan,24,"6'0""",174,Colorado Avalanche,COL,22,3,2,5,10:56,29,6,6
+Dellandrea,Ty,20,"6'1""",190,Dallas Stars,DAL,26,3,2,5,12:29,47,23,0
+Ritchie,Brett,27,"6'3""",220,Calgary Flames,CGY,27,3,2,5,11:37,91,20,-8
+Olivier,Mathieu,23,"6'2""",209,Nashville Predators,NSH,29,3,2,5,10:50,61,68,-2
+Turris,Kyle,31,"6'1""",190,Edmonton Oilers,EDM,26,2,3,5,12:11,15,10,-11
+Kassian,Zack,29,"6'3""",212,Edmonton Oilers,EDM,27,2,3,5,11:51,73,15,-4
+Hayden,John,25,"6'3""",216,Arizona Coyotes,ARI,28,2,3,5,9:41,84,37,-3
+Wagner,Chris,29,"6'0""",198,Boston Bruins,BOS,39,2,3,5,11:32,71,24,-10
+Thompson,Nate,36,"6'1""",214,Winnipeg Jets,WPG,40,2,3,5,9:27,54,4,4
+Dowling,Justin,30,"5'10""",190,Dallas Stars,DAL,26,1,4,5,11:08,16,4,-4
+Sörensen,Marcus,28,"5'11""",165,San Jose Sharks,SJS,29,1,4,5,12:05,22,16,-5
+Beagle,Jay,35,"6'3""",209,Vancouver Canucks,VAN,30,1,4,5,12:31,34,8,-2
+Reaves,Ryan,33,"6'2""",225,Vegas Golden Knights,VGK,37,1,4,5,9:55,141,27,0
+Backes,David,36,"6'3""",216,Anaheim Ducks,ANA,15,3,1,4,12:44,31,4,-4
+Andersson,Lias,22,"6'1""",190,Los Angeles Kings,LAK,18,3,1,4,11:23,7,6,-6
+Zohorna,Radim,24,"6'6""",229,Pittsburgh Penguins,PIT,8,2,2,4,9:01,7,4,4
+Shaw,Andrew,29,"5'11""",183,Chicago Blackhawks,CHI,14,2,2,4,15:06,20,6,-5
+Angello,Anthony,24,"6'5""",209,Pittsburgh Penguins,PIT,19,2,2,4,7:59,51,8,4
+Lomberg,Ryan,26,"5'10""",194,Florida Panthers,FLA,32,2,2,4,9:46,85,36,-3
+Pinto,Shane,20,"6'2""",192,Ottawa Senators,OTT,9,1,3,4,11:47,9,4,3
+Smith,Givani,22,"6'2""",220,Detroit Red Wings,DET,15,1,3,4,10:23,26,21,-4
+Dal,Michael,24,"6'3""",205,New York Islanders,NYI,26,1,3,4,11:54,32,4,1
+Roussel,Antoine,31,"6'0""",201,Vancouver Canucks,VAN,35,1,3,4,11:30,63,37,4
+Nordström,Joakim,28,"6'1""",190,Calgary Flames,CGY,40,1,3,4,11:15,85,6,-1
+Denisenko,Grigory,20,"5'11""",176,Florida Panthers,FLA,6,0,4,4,11:45,11,2,0
+Bellows,Kieffer,22,"6'1""",194,New York Islanders,NYI,14,3,0,3,11:01,36,4,0
+Lammikko,Juho,24,"6'2""",207,Florida Panthers,FLA,43,3,0,3,10:41,47,10,-10
+Allison,Wade,23,"6'2""",205,Philadelphia Flyers,PHI,11,2,1,3,12:51,26,4,0
+Dalpe,Zac,31,"6'2""",194,Columbus Blue Jackets,CBJ,12,2,1,3,10:37,11,0,-2
+Hayton,Barrett,20,"6'1""",192,Arizona Coyotes,ARI,14,2,1,3,11:29,15,0,-1
+Haas,Gaetan,28,"6'0""",181,Edmonton Oilers,EDM,33,2,1,3,11:18,31,10,-6
+Fogarty,Steven,27,"6'3""",207,Buffalo Sabres,BUF,9,1,2,3,11:43,4,8,2
+Pederson,Lane,23,"6'0""",190,Arizona Coyotes,ARI,13,1,2,3,11:06,38,0,-3
+Richardson,Brad,35,"6'0""",190,Nashville Predators,NSH,15,1,2,3,12:11,14,4,-1
+Kravtsov,Vitaly,21,"6'3""",190,New York Rangers,NYR,18,1,2,3,11:58,7,4,-4
+Studnicka,Jack,21,"6'1""",174,Boston Bruins,BOS,19,1,2,3,12:33,7,0,-3
+Smith,Gemel,26,"5'11""",194,Tampa Bay Lightning,TBL,4,0,3,3,9:41,4,9,3
+O'Brien,Liam,26,"6'1""",216,Colorado Avalanche,COL,12,0,3,3,6:34,28,40,1
+Bishop,Clark,24,"6'1""",198,Ottawa Senators,OTT,13,0,3,3,9:28,23,4,2
+Calvert,Matt,31,"5'11""",185,Colorado Avalanche,COL,18,0,3,3,13:48,12,6,-2
+Wallmark,Lucas,25,"6'0""",176,Florida Panthers,FLA,4,0,0,0,10:31,5,0,-2
+Foudy,Liam,20,"6'2""",183,Columbus Blue Jackets,CBJ,22,0,3,3,12:25,11,6,0
+Amadio,Mike,24,"6'1""",205,Ottawa Senators,OTT,5,0,1,1,12:59,6,2,2
+Seguin,Tyler,28,"6'1""",201,Dallas Stars,DAL,2,2,0,2,17:34,6,0,0
+Caufield,Cole,19,"5'7""",163,Montreal Canadiens,MTL,6,2,0,2,13:13,1,0,0
+McCormick,Max,28,"5'11""",187,Carolina Hurricanes,CAR,9,2,0,2,6:46,14,2,2
+L'Esperance,Joel,25,"6'2""",209,Dallas Stars,DAL,12,2,0,2,9:25,16,2,-2
+Barre-Boulet,Alex,23,"5'9""",172,Tampa Bay Lightning,TBL,13,2,0,2,15:20,7,0,2
+Kuhlman,Karson,25,"5'11""",185,Boston Bruins,BOS,17,2,0,2,10:29,21,0,-4
+Foote,Nolan,20,"6'4""",201,New Jersey Devils,NJD,3,1,1,2,8:59,3,0,-1
+Kellman,Joel,26,"5'11""",192,San Jose Sharks,SJS,7,1,1,2,10:40,5,6,-1
+Studenic,Marian,22,"6'1""",179,New Jersey Devils,NJD,7,1,1,2,10:48,11,4,-2
+Heponiemi,Aleksi,21,"5'10""",154,Florida Panthers,FLA,7,1,1,2,11:23,0,2,0
+MacEachern,MacKenzie,26,"6'2""",190,St. Louis Blues,STL,18,1,1,2,9:26,29,4,3
+Hawryluk,Jayce,24,"5'11""",185,Vancouver Canucks,VAN,21,1,1,2,9:37,37,9,-4
+Gardner,Rhett,24,"6'3""",225,Dallas Stars,DAL,27,1,1,2,9:51,47,8,-8
+MacEwen,Zack,24,"6'4""",212,Vancouver Canucks,VAN,28,1,1,2,8:19,56,31,-2
+Sgarbossa,Michael,28,"6'0""",185,Washington Capitals,WSH,5,0,2,2,9:47,1,0,2
+Hirose,Taro,24,"5'10""",161,Detroit Red Wings,DET,6,0,2,2,14:22,1,0,2
+Russell,Patrick,27,"6'1""",205,Edmonton Oilers,EDM,7,0,2,2,10:39,13,0,1
+Pitlick,Rem,23,"5'11""",203,Nashville Predators,NSH,9,0,2,2,11:04,8,4,3
+Sherwood,Kiefer,25,"6'0""",194,Colorado Avalanche,COL,12,0,2,2,8:25,28,0,2
+Rau,Kyle,28,"5'8""",172,Minnesota Wild,MIN,13,0,2,2,9:18,18,7,-1
+Highmore,Matthew,24,"5'11""",187,Vancouver Canucks,VAN,9,0,0,0,14:13,14,2,-2
+Kaliyev,Arthur,19,"6'2""",190,Los Angeles Kings,LAK,1,1,0,1,14:42,0,0,-1
+Barron,Morgan,22,"6'4""",220,New York Rangers,NYR,3,1,0,1,13:33,7,0,-2
+McKegg,Greg,28,"6'0""",192,Boston Bruins,BOS,4,1,0,1,9:01,7,2,-2
+Brodzinski,Jonny,27,"6'1""",216,New York Rangers,NYR,4,1,0,1,10:55,3,4,0
+Blichfeld,Joachim,22,"6'2""",181,San Jose Sharks,SJS,5,1,0,1,8:41,2,12,-2
+Hardman,Mike,21,"6'3""",190,Chicago Blackhawks,CHI,5,1,0,1,10:30,20,0,-1
+Froese,Byron,29,"6'1""",205,Calgary Flames,CGY,6,1,0,1,8:17,8,2,1
+Händemark,Fredrik,27,"6'4""",209,San Jose Sharks,SJS,8,1,0,1,9:27,14,2,-3
+Walker,Nathan,26,"5'9""",185,St. Louis Blues,STL,8,1,0,1,13:29,14,2,-4
+Blidh,Anton,25,"6'0""",201,Boston Bruins,BOS,9,1,0,1,10:19,22,6,-4
+Joshua,Dakota,24,"6'2""",198,St. Louis Blues,STL,11,1,0,1,8:43,19,5,-3
+Luff,Matt,23,"6'3""",194,Los Angeles Kings,LAK,12,1,0,1,10:19,7,5,-3
+Johnson,Luke,26,"6'0""",179,Minnesota Wild,MIN,13,1,0,1,9:50,25,5,-5
+Matteau,Stefan,26,"6'2""",220,Columbus Blue Jackets,CBJ,17,1,0,1,10:49,35,9,-4
+Bromé,Mathias,26,"6'0""",183,Detroit Red Wings,DET,24,1,0,1,13:32,17,8,-10
+Malone,Sean,25,"6'0""",203,Nashville Predators,NSH,1,0,1,1,10:38,0,2,-1
+Entwistle,MacKenzie,21,"6'3""",183,Chicago Blackhawks,CHI,2,0,1,1,8:03,4,0,1
+Krebs,Peyton,19,"6'0""",187,Vegas Golden Knights,VGK,2,0,1,1,11:31,1,0,1
+Agozzino,Andrew,29,"5'10""",187,Anaheim Ducks,ANA,3,0,1,1,12:10,6,0,0
+Chmelevski,Alexander,21,"6'0""",185,San Jose Sharks,SJS,3,0,1,1,6:55,3,0,-1
+Cramarossa,Joseph,28,"6'0""",194,Minnesota Wild,MIN,4,0,1,1,10:46,10,15,-1
+Mayhew,Gerald,28,"5'10""",170,Minnesota Wild,MIN,4,0,1,1,11:44,7,0,1
+Cates,Jackson,23,"6'0""",190,Philadelphia Flyers,PHI,4,0,1,1,10:36,0,0,-3
+Carr,Daniel,29,"6'0""",194,Washington Capitals,WSH,5,0,1,1,10:06,9,2,-2
+Peca,Matthew,27,"5'9""",179,Ottawa Senators,OTT,5,0,1,1,8:53,9,0,1
+Stephens,Mitchell,23,"6'0""",194,Tampa Bay Lightning,TBL,5,0,1,1,8:47,4,0,-4
+Byfield,Quinton,18,"6'4""",216,Los Angeles Kings,LAK,5,0,1,1,15:09,3,2,1
+True,Alexander,23,"6'5""",201,San Jose Sharks,SJS,6,0,1,1,10:02,3,6,0
+Sherwood,Kole,23,"6'1""",198,Columbus Blue Jackets,CBJ,6,0,1,1,10:21,22,7,-2
+Robertson,Nick,19,"5'9""",161,Toronto Maple Leafs,TOR,6,0,1,1,9:25,3,0,1
+Thompson,Tyce,21,"6'1""",179,New Jersey Devils,NJD,6,0,1,1,8:26,5,0,-3
+Eriksson,Loui,35,"6'2""",179,Vancouver Canucks,VAN,7,0,1,1,9:34,1,2,-3
+Gerbe,Nathan,33,"5'4""",176,Columbus Blue Jackets,CBJ,7,0,1,1,11:12,8,2,-2
+Petan,Nic,25,"5'9""",179,Toronto Maple Leafs,TOR,7,0,1,1,10:16,6,4,-2
+Jurco,Tomas,28,"6'2""",187,Vegas Golden Knights,VGK,8,0,1,1,8:57,4,0,0
+Johnston,Ross,26,"6'5""",236,New York Islanders,NYI,10,0,1,1,8:32,35,35,-3
+O'Connor,Drew,22,"6'3""",201,Pittsburgh Penguins,PIT,10,0,1,1,8:57,6,2,-2
+Vesalainen,Kristian,21,"6'4""",227,Winnipeg Jets,WPG,12,0,1,1,8:41,8,0,0
+de Leo,Jacob,25,"6'3""",216,St. Louis Blues,STL,13,0,1,1,10:11,22,7,-2
+Bunnaman,Connor,22,"6'3""",214,Philadelphia Flyers,PHI,18,0,1,1,11:33,31,2,-6
+Harkins,Jansen,23,"6'2""",194,Winnipeg Jets,WPG,23,0,1,1,8:14,10,4,-2
+Caamano,Nicholas,22,"6'3""",201,Dallas Stars,DAL,24,0,1,1,9:20,41,17,-7
+Pirri,Brandon,29,"6'1""",181,Chicago Blackhawks,CHI,1,0,0,0,11:29,0,0,-2
+Lindholm,Pär,29,"6'3""",198,Boston Bruins,BOS,1,0,0,0,12:55,0,0,0
+Frk,Martin,27,"6'1""",205,Los Angeles Kings,LAK,1,0,0,0,9:21,1,0,-1
+Timashov,Dmytro,24,"5'10""",192,New York Islanders,NYI,1,0,0,0,7:13,2,0,-2
+Sabourin,Scott,28,"6'3""",207,Toronto Maple Leafs,TOR,1,0,0,0,4:29,3,5,0
+Agostino,Kenny,28,"6'0""",205,Toronto Maple Leafs,TOR,1,0,0,0,4:08,0,0,0
+Dea,Jean-Sebastien,26,"5'11""",174,Buffalo Sabres,BUF,1,0,0,0,5:33,0,2,-1
+Kase,David,23,"5'11""",170,Philadelphia Flyers,PHI,1,0,0,0,10:58,0,0,0
+Chlapik,Filip,23,"6'2""",194,Ottawa Senators,OTT,1,0,0,0,7:11,1,0,1
+de Leo,Chase,25,"5'10""",185,Anaheim Ducks,ANA,1,0,0,0,13:26,1,0,-2
+Abramov,Vitaly,22,"5'10""",181,Ottawa Senators,OTT,1,0,0,0,9:38,0,0,0
+Currie,Josh,28,"5'11""",190,Pittsburgh Penguins,PIT,1,0,0,0,7:24,0,0,0
+Maillet,Philippe,28,"5'10""",185,Washington Capitals,WSH,1,0,0,0,8:02,1,0,0
+Chekhovich,Ivan,21,"5'10""",181,San Jose Sharks,SJS,1,0,0,0,10:55,0,0,0
+Anderson,Joey,22,"5'11""",203,Toronto Maple Leafs,TOR,1,0,0,0,9:36,0,2,1
+Greer,A.J.,24,"6'3""",209,New Jersey Devils,NJD,1,0,0,0,8:33,0,7,0
+Smith,C.J.,26,"5'11""",181,Buffalo Sabres,BUF,1,0,0,0,7:57,3,0,0
+McMichael,Connor,19,"6'0""",181,Washington Capitals,WSH,1,0,0,0,9:54,0,2,0
+Smith,Cole,25,"6'3""",194,Nashville Predators,NSH,1,0,0,0,5:57,0,0,0
+Newhook,Alex,19,"5'10""",190,Colorado Avalanche,COL,1,0,0,0,13:20,0,0,1
+Gauthier,Frederik,25,"6'5""",236,Arizona Coyotes,ARI,2,0,0,0,6:44,1,2,0
+Kase,Ondrej,25,"6'0""",190,Boston Bruins,BOS,2,0,0,0,9:21,0,0,0
+Steen,Oskar,22,"5'9""",192,Boston Bruins,BOS,2,0,0,0,11:36,5,2,0
+Frost,Morgan,21,"6'0""",181,Philadelphia Flyers,PHI,2,0,0,0,10:14,0,0,0
+Pinho,Brian,25,"6'1""",194,Washington Capitals,WSH,2,0,0,0,7:48,1,0,-2
+Sushko,Maxim,21,"6'0""",194,Philadelphia Flyers,PHI,2,0,0,0,9:33,2,0,-1
+Shore,Drew,29,"6'3""",205,Carolina Hurricanes,CAR,3,0,0,0,6:53,2,2,-1
+Bailey,Justin,25,"6'4""",214,Vancouver Canucks,VAN,3,0,0,0,6:48,2,2,-2
+Kupari,Rasmus,20,"6'1""",187,Los Angeles Kings,LAK,3,0,0,0,9:41,3,2,-2
+Dries,Sheldon,26,"5'9""",181,Colorado Avalanche,COL,3,0,0,0,7:48,6,4,1
+Rempal,Sheldon,25,"5'10""",165,Carolina Hurricanes,CAR,3,0,0,0,8:17,0,0,0
+Haley,Micheal,34,"5'11""",205,Ottawa Senators,OTT,4,0,0,0,6:02,10,5,-1
+Rinaldo,Zac,30,"5'10""",194,Calgary Flames,CGY,4,0,0,0,5:50,13,5,-1
+Czarnik,Austin,28,"5'9""",174,New York Islanders,NYI,4,0,0,0,12:29,2,0,-1
+Megna,Jayson,30,"6'1""",194,Colorado Avalanche,COL,4,0,0,0,10:02,8,0,0
+Fasching,Hudson,25,"6'3""",205,Arizona Coyotes,ARI,4,0,0,0,9:35,3,0,-3
+Brown,Patrick,28,"6'1""",209,Vegas Golden Knights,VGK,4,0,0,0,9:05,7,2,0
+Suomela,Antti,26,"6'0""",172,San Jose Sharks,SJS,4,0,0,0,11:07,6,0,0
+Veleno,Joseph,20,"6'1""",194,Detroit Red Wings,DET,4,0,0,0,15:10,6,4,0
+Lind,Kole,22,"6'1""",185,Vancouver Canucks,VAN,4,0,0,0,15:12,6,0,-4
+Gustafsson,David,20,"6'2""",196,Winnipeg Jets,WPG,4,0,0,0,5:49,0,0,-1
+Graovac,Tyler,27,"6'5""",209,Vancouver Canucks,VAN,5,0,0,0,8:07,3,0,-1
+Noesen,Stefan,27,"6'2""",205,San Jose Sharks,SJS,5,0,0,0,9:31,4,2,0
+McCarron,Michael,25,"6'6""",231,Nashville Predators,NSH,5,0,0,0,9:57,11,16,0
+Gawdin,Glenn,23,"6'1""",190,Calgary Flames,CGY,5,0,0,0,5:41,9,0,-2
+Johnson,Reese,22,"6'1""",192,Chicago Blackhawks,CHI,5,0,0,0,7:56,22,9,-2
+Poganski,Austin,24,"6'2""",201,St. Louis Blues,STL,5,0,0,0,7:33,8,0,-1
+Sikura,Dylan,25,"5'11""",165,Vegas Golden Knights,VGK,5,0,0,0,9:27,3,0,-2
+Laczynski,Tanner,23,"6'1""",190,Philadelphia Flyers,PHI,5,0,0,0,9:58,5,0,1
+Kaut,Martin,21,"6'2""",190,Colorado Avalanche,COL,5,0,0,0,7:59,6,4,-1
+Lettieri,Vinni,25,"5'11""",185,Anaheim Ducks,ANA,5,0,0,0,12:43,9,0,-3
+Andreoff,Andy,29,"6'1""",203,Philadelphia Flyers,PHI,6,0,0,0,8:36,14,9,-6
+Milano,Sonny,24,"6'0""",194,Anaheim Ducks,ANA,6,0,0,0,14:44,4,0,0
+McLeod,Ryan,21,"6'3""",201,Edmonton Oilers,EDM,6,0,0,0,12:36,3,0,0
+Dunne,Josh,22,"6'4""",198,Columbus Blue Jackets,CBJ,6,0,0,0,10:23,12,4,-1
+Frolík,Michael,32,"6'1""",190,Montreal Canadiens,MTL,7,0,0,0,11:16,8,0,-3
+Senyshyn,Zach,23,"6'1""",192,Boston Bruins,BOS,7,0,0,0,9:46,11,2,-1
+Twarynski,Carsen,23,"6'2""",198,Philadelphia Flyers,PHI,7,0,0,0,8:51,17,2,-3
+Nygård,Joakim,27,"6'0""",179,Edmonton Oilers,EDM,8,0,0,0,8:37,2,4,-1
+Michaelis,Marc,25,"5'11""",187,Vancouver Canucks,VAN,8,0,0,0,8:59,6,2,-3
+Robinson,Buddy,29,"6'6""",225,Calgary Flames,CGY,9,0,0,0,7:08,14,0,0
+Simon,Dominik,26,"5'11""",190,Calgary Flames,CGY,9,0,0,0,9:43,10,0,0
+Truchon-Viel,Jeffrey,23,"6'0""",194,San Jose Sharks,SJS,10,0,0,0,7:48,21,19,-7
+Gabriel,Kurtis,27,"6'4""",201,San Jose Sharks,SJS,11,0,0,0,7:40,46,55,1
+Chaput,Michael,28,"6'2""",198,Arizona Coyotes,ARI,12,0,0,0,9:10,17,8,-6
+MacInnis,Ryan,24,"6'4""",201,Columbus Blue Jackets,CBJ,14,0,0,0,9:53,18,0,-4
+Tinordi,Jarred,28,"6'6""",225,Boston Bruins,BOS,13,0,0,0,16:58,40,7,-5
